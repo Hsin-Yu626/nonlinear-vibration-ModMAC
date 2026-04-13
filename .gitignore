@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+*.autosave
+
+# Data files (large, don't commit)
+*.mat
+*.fig
+
+# OS
+.DS_Store
+Thumbs.db
